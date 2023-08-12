@@ -1,0 +1,9 @@
+ReWriteEngine ON
+
+ReWriteRule ^about? about.php
+RewriteRule ^index? index.php
+RewriteRule ^blog? blog.php
+RewriteRule ^contact? contact.php
+RewriteRule ^article? article.php
+ReWriteRule ^search? search.php
+ReWriteRule ^single? single.php

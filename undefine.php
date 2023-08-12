@@ -1,0 +1,1 @@
+l=<?= $l_link; ?>&post=<?= $blog['blog_id']; ?>&l=<?= $l_link; ?>&blog-category-name=<?= $blog['post_category_name']; ?>&blog-auth=<?= $blog['post_author']; ?>&l=<?= $l_link; ?>
